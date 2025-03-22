@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+#range::-moz-range-thumb {
+    background-color: #fff;
+    border: none;
+}
